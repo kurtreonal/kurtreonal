@@ -1,6 +1,6 @@
 ## Hi there 👋
 <div align="center">
-  <h1>I'm kurtreonal</h1>
+  <h1>I'm kurtreonal(Kurt Pascua)</h1>
 </div> 
 
 <picture>
