@@ -1,5 +1,7 @@
 ## Hi there 👋
-<div align="center">I'm kurtreonal</div>
+<div align="center">
+  <h1>I'm kurtreonal</h1>
+</div> 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kurtreonal/kurtreonal/output/github-contribution-grid-snake-dark.svg">
